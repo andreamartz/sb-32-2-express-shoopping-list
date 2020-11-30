@@ -1,6 +1,6 @@
 const express = require('express');
 const ExpressError = require('./expressError');
-const routes = require("./routes");
+const routes = require("./routes/routes");
 
 const app = express();
 
